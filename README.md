@@ -8,7 +8,7 @@ This project demonstrates a **small, agentic workflow**—a step toward building
 
 ## Features
 
-- Downloads historical stock prices for multiple symbols (e.g., AAPL, MSFT, GOOGL) using `yfinance`.
+- Downloads historical stock prices for multiple symbols (e.g., NVDA, TSLA, META) using `yfinance`.
 - Generates summary statistics (`mean`, `std`, `min`, `max`) for each stock.
 - Detects trends and volatility and produces **AI-style textual analysis**.
 - Plots stock closing prices and saves charts as PNG files.
@@ -22,8 +22,8 @@ This project demonstrates a **small, agentic workflow**—a step toward building
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agentic-stock-workflow.git
-cd agentic-stock-workflow
+git clone https://github.com/YOUR_USERNAME/basic-agentic-stock-workflow.git
+cd agent-stock-prices
 ```
 
 
